@@ -19,7 +19,7 @@ This is a starter kit for those who are looking to build an application with PHP
 Install with composer.
 
 ```bash
-composer create-project eyepax-prasanna/php7-starter-kit <project-path>
+composer create-project eyepax-prasanna/php7-starter-kit <project-path> -s dev
 ```
 
 ## Using the PHP 7 Starter kit

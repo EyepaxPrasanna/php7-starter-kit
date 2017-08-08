@@ -35,5 +35,5 @@ This starter kit is designed to use with ease. It has well defined folder struct
 Install with composer.
 
 ```bash
-composer create-project EyepaxPrasanna/php7-starter-kit <project-path>
+composer create-project eyepax-prasanna/php7-starter-kit <project-path>
 ```

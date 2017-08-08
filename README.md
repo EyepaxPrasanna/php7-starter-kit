@@ -14,6 +14,14 @@ This is a starter kit for those who are looking to build an application with PHP
 - Configuration file management.
 - Input handling.
 
+## Quick start
+
+Install with composer.
+
+```bash
+composer create-project eyepax-prasanna/php7-starter-kit <project-path>
+```
+
 ## Using the PHP 7 Starter kit
 
 This starter kit is designed to use with ease. It has well defined folder structure.
@@ -29,11 +37,3 @@ This starter kit is designed to use with ease. It has well defined folder struct
 - <i><b>storage_path()</b></i>, function will give you the relative path for the storage folder. So you can save the uploaded files there.
 - <i><b>public_path()</b></i>, function will give you the relative path for the web folder.
 - <i><b>dd('contents')</b></i> will print and die (A Laravel style function).
-
-## Quick start
-
-Install with composer.
-
-```bash
-composer create-project eyepax-prasanna/php7-starter-kit <project-path>
-```
